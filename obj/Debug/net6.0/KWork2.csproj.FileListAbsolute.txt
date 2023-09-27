@@ -1,0 +1,15 @@
+C:\Users\Костик\Desktop\C#\KWork2\bin\Debug\net6.0\KWork2.exe
+C:\Users\Костик\Desktop\C#\KWork2\bin\Debug\net6.0\KWork2.deps.json
+C:\Users\Костик\Desktop\C#\KWork2\bin\Debug\net6.0\KWork2.runtimeconfig.json
+C:\Users\Костик\Desktop\C#\KWork2\bin\Debug\net6.0\KWork2.dll
+C:\Users\Костик\Desktop\C#\KWork2\bin\Debug\net6.0\KWork2.pdb
+C:\Users\Костик\Desktop\C#\KWork2\obj\Debug\net6.0\KWork2.csproj.AssemblyReference.cache
+C:\Users\Костик\Desktop\C#\KWork2\obj\Debug\net6.0\KWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Костик\Desktop\C#\KWork2\obj\Debug\net6.0\KWork2.AssemblyInfoInputs.cache
+C:\Users\Костик\Desktop\C#\KWork2\obj\Debug\net6.0\KWork2.AssemblyInfo.cs
+C:\Users\Костик\Desktop\C#\KWork2\obj\Debug\net6.0\KWork2.csproj.CoreCompileInputs.cache
+C:\Users\Костик\Desktop\C#\KWork2\obj\Debug\net6.0\KWork2.dll
+C:\Users\Костик\Desktop\C#\KWork2\obj\Debug\net6.0\refint\KWork2.dll
+C:\Users\Костик\Desktop\C#\KWork2\obj\Debug\net6.0\KWork2.pdb
+C:\Users\Костик\Desktop\C#\KWork2\obj\Debug\net6.0\KWork2.genruntimeconfig.cache
+C:\Users\Костик\Desktop\C#\KWork2\obj\Debug\net6.0\ref\KWork2.dll
